@@ -2,7 +2,7 @@
 
 ![AnaliseCartão4](https://github.com/user-attachments/assets/f8c648ad-8f65-468d-8b6c-b426b9208fef)
 ![AnaliseCartão2](https://github.com/user-attachments/assets/d7983fc9-fab5-4aa4-b58c-c9bb77e04a3e)
-
+![AnaliseCartão3](https://github.com/user-attachments/assets/9f8d05bf-8fa0-449a-bbf9-514ed7a7b8f0)
 
 
 
