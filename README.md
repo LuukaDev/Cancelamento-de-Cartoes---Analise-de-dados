@@ -1,7 +1,8 @@
 # 💳 Análise de Cancelamento de Cartões de Crédito: Perfis, Comportamento e Fatores de Churn
 
 ![AnaliseCartão4](https://github.com/user-attachments/assets/f8c648ad-8f65-468d-8b6c-b426b9208fef)
-![AnaliseCartão1](https://github.com/user-attachments/assets/7174681d-04e7-4036-8d88-583502cee07f)
+![AnaliseCartão2](https://github.com/user-attachments/assets/d7983fc9-fab5-4aa4-b58c-c9bb77e04a3e)
+
 
 
 
